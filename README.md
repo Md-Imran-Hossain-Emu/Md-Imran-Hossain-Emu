@@ -16,7 +16,7 @@
 
 
 <!---Details--->
-<h3 align="center">Now, I' studing at  Bangladesh Army International University of Science & Technology (<a href:"https://www.baiust.edu.bd/">BAIUST</a>) in </h3>
+<p>Now, I' studing at  Bangladesh Army International University of Science & Technology (<a href:"https://www.baiust.edu.bd/">BAIUST</a>) in </p>
 
 <br>
 
