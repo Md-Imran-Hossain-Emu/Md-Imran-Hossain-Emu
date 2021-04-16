@@ -5,7 +5,6 @@
 <h3 align="left" style="color:#">Catch me at:</h3>
 
 
-<p>
 <a href = "https://www.facebook.com/imranemu48">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
@@ -14,10 +13,10 @@
 
 <a href="mailto:imrankhan162560@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
+
 
 <!---Details--->
-<h3 align="center">Now, I' studing at <a href:"https://www.baiust.edu.bd/"> Bangladesh Army International University of Science & Technology (BAIUST)</a> in </h3>
+<h3 align="center">Now, I' studing at  Bangladesh Army International University of Science & Technology (<a href:"https://www.baiust.edu.bd/">BAIUST</a>) in </h3>
 
 <br>
 
