@@ -5,11 +5,10 @@
 <h3 align="left" style="color:#">Catch me at:</h3>
 
 
-<p>
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">(https://www.facebook.com/imranemu48)
+[![Facebook]("https://en.facebookbrand.com/facebookapp/assets/f-logo/")](https://www.facebook.com/imranemu48/)
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">(https://www.linkedin.com/in/imranemu48)
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">(mailto:imrankhan162560@gmail.com)
-</p>
+
 
 <!---Details--->
 <h3 align="center">Now, I' studing at <a href:"https://www.baiust.edu.bd/"> Bangladesh Army International University of Science & Technology (BAIUST)</a> in </h3>
