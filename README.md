@@ -16,7 +16,7 @@
 
 
 <!---Details--->
-<p>Now, I' studing at  Bangladesh Army International University of Science & Technology (<a href:"https://www.baiust.edu.bd/">BAIUST</a>) in </p>
+<p>I'm a student of Computer Science and Engineering. Now, my B.Sc. is running at  Bangladesh Army International University of Science & Technology (<a href:"https://www.baiust.edu.bd/">BAIUST</a>). </p>
 
 <br>
 
