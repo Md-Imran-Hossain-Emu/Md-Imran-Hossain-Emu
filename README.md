@@ -16,8 +16,7 @@
 
 
 <!---Details--->
-<p>I'm a student of Computer Science and Engineering. Now, my B.Sc. is running at  Bangladesh Army International University of Science & Technology (<a href:"https://www.baiust.edu.bd/">BAIUST</a>). I have been a competitive programmer for about two years. I am used to multitasking, self-dependent, and time sensing. Always eager to learn new things. Now, I am trying my best to upgrade my problem-solving skills, teamwork, and communication skills. Also, work on a Project of a Hospital Management System.
-</p>
+<p>I'm a student of Computer Science and Engineering. Now, my B.Sc. is running at  Bangladesh Army International University of Science & Technology (<a href:"https://www.baiust.edu.bd/">BAIUST</a>). I have been a competitive programmer for about two years. I am used to multitasking, self-dependent, and time sensing. Always eager to learn new things. Now, I am trying my best to upgrade my problem-solving skills, teamwork, and communication skills. Also, work on a Project of a Hospital Management System.</p>
 
 <br>
 
