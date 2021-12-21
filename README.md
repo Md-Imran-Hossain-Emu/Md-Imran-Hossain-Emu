@@ -5,10 +5,10 @@
 <h3 align="left" style="color:#">Catch me at:</h3>
 
 
-<a href = "https://www.facebook.com/imranemu48">
+<a href = "https://www.facebook.com/mdihemu">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
-<a href="https://www.linkedin.com/in/imranemu48">
+<a href="https://www.linkedin.com/in/mdihemu">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 
 <a href="mailto:mdihemu@gmail.com">
@@ -23,14 +23,14 @@
 <h3 align = "left" style="color:#26FC07;">Overview:</h3>
 
 <!---Language Chart--->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Imran-Hossain-Emu&show_icons=true&locale=en&layout=compact" alt="Imran Emu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdihemu&show_icons=true&locale=en&layout=compact" alt="Imran Emu" /></p>
 
 <br><br><br><br><br>
 <br><br><br>
 
 <!---Github Stats--->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Md-Imran-Hossain-Emu&show_icons=true&locale=en&theme=yeblu" alt="Imran Emu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdihemu&show_icons=true&locale=en&theme=yeblu" alt="Imran Emu" /></p>
 
 <br>
 <!---Trophy Info--->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Md-Imran-Hossain-Emu" alt="Imran Emu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdihemu" alt="Imran Emu" /></a> </p>
