@@ -1,6 +1,7 @@
 <!---Heading--->
 <h1 align="center" style="color:#808080"> Md. Imran Hossain Emu || মোঃ ইমরান হোসেন ইমু</h1>
 
+
 <!---Contact Info--->
 <h3 align="left" style="color:#">Catch me at:</h3>
 
@@ -37,8 +38,6 @@
 <h3 align = "left" style="color:#26FC07;">Compititive Programming:</h3>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/DarkMotion?theme=light&font=Karma&ext=contest" />
-<br>
-<img height="280em" src="https://raw.githubusercontent.com/DarkMotion/cf-stats/main/output/light_card.svg" />
 </p>
 
 <br>
