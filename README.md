@@ -3,7 +3,7 @@
 
 
 <!---Contact Info--->
-<h3 align="left" style="color:#">Catch me at:</h3>
+<h3 align="left" style="color:#26FC07">Catch me at:</h3>
 
 
 <a href = "https://www.facebook.com/mdihemu">
@@ -35,7 +35,7 @@
 <br>
 
 <!---Compititive Programming --->
-<h3 align = "left" style="color:#26FC07;">Compititive Programming:</h3>
+
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/DarkMotion?theme=light&font=Karma&ext=contest" />
 </p>
