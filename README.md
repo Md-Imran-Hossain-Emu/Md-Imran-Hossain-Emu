@@ -37,6 +37,7 @@
 <h3 align = "left" style="color:#26FC07;">Compititive Programming:</h3>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/DarkMotion?theme=light&font=Karma&ext=contest" />
+<br>
 <img height="280em" src="https://raw.githubusercontent.com/DarkMotion/cf-stats/main/output/light_card.svg" />
 </p>
 
