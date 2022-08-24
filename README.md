@@ -32,5 +32,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdihemu&show_icons=true&locale=en&theme=yeblu" alt="Imran Emu" /></p>
 
 <br>
+
+<!---Compititive Programming --->
+<h3 align = "left" style="color:#26FC07;">Compititive Programming:</h3>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/DarkMotion?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/DarkMotion/cf-stats/main/output/light_card.svg" />
+</p>
+
+<br>
+
 <!---Trophy Info--->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdihemu" alt="Imran Emu" /></a> </p>
